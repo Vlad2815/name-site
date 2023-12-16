@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="./js/script.js"></script>
+	<title>Facepanch</title>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300;400;600;700&family=Roboto:ital@0;1&display=swap" rel="stylesheet">
+	<title>About</title>
+</head>
+<body>
+	<header>
+		<img class='logo' src="img/logo.png" alt="">
+		<a class="home" href="about.html"> <span class='ltext'>facepanch</span> </a>
+		<div class='about'>
+			<a class='new' href="news.html"> новости </a>
+			<a class='game'> игры </a>
+			<a class='blog'> события и обновления </a>
+			<a class='aut' href="authorization.html"> авторизация </a>
+		</div>
+	</header>
+	<main>
+		<div id="main0">
+			<span class='main1'> Мы являемся независимой студией разработки игр. Мы создаем игры. </span>
+		</div>
+	</main>
+</body>
+</html>
+
+<!--<input type='button' onclick="openMyWindow()" value='Config' class='window'> -->

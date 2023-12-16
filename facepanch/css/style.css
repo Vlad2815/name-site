@@ -1,0 +1,96 @@
+@charset "utf-8";
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Roboto Mono", Roboto;
+}
+body {
+	width: 100%; 
+	height: 100%;
+	color: #f7f7f7;
+	background: #171727;
+	font-size: 1em;
+	line-height: 135%;
+}
+header {
+	width: 100%;
+	background-color: #0E0D0D;
+	height: 132px;
+}	 
+.logo {
+	float: left;
+	margin: 10px;
+}
+.ltext {
+	float: left;
+  font-size: 48px;
+  top: 36px;
+  line-height: 130px;
+}
+.about {
+	float: right;
+	margin: 60px;
+	font-family: "Roboto Mono", Roboto, light;
+	font-size: 36px;
+	color: #B7ADAD;
+}
+.game, .blog, .help {
+	padding: 8px;
+	}
+.main1 {
+	font-size: 90px;
+	padding-left: 180px;
+	padding-right: 180px;
+	line-height: 100px;
+	margin: 110px;
+	float: right;
+	text-align: left;
+	
+}
+#main0{ 
+	position:fixed;
+	top: 25%;
+}
+/*
+	.window {
+	float: right;
+	 font-size: 1em;
+	 background: linear-gradient(135deg, #12BCB0 20%, #FABE0E 70%);
+	 -webkit-background-clip: text;
+	 -webkit-text-fill-color: transparent;
+	 display: inline-block;
+	 padding: 0.3em 0.6em ;
+	 border: 0px;	 
+}
+	*/
+.new {
+	color: #B7ADAD;
+    text-decoration: none;
+}
+/* page 2 */
+.cap {
+	font-size: 90px;
+	line-height: 0px;
+	text-align: center;
+	margin:1%;
+	padding:1%;
+}
+.cont {
+	margin: 0 auto;
+  width: 100px;
+  height: 100px;  
+}
+.content {
+	float:right;
+	padding:20%;
+	margin:20%;
+}
+
+.aut {
+	color: #B7ADAD;
+	text-decoration: none;
+}
+.home {
+	color: #B7ADAD;
+	text-decoration: none;
+}
